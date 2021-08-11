@@ -44,5 +44,4 @@ private static int SumOfAscii(String str)
             return "Matching";
       else return "Not Matching";
   }
-
 }
