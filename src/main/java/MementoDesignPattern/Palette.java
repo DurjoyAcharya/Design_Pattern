@@ -20,6 +20,10 @@ public class Palette {
     {
         elements=guiMemento.getElements();
     }
+    @Override
+    public String toString() {
+        return "GUIPalette{" + "elements" + elements + '}';
+    }
     static class GUIMemento
     {
         ArrayList<Element> elements;
