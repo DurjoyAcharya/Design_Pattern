@@ -1,5 +1,4 @@
 <h2><center>🔥🔥🔥 <i><u>Design Pattern</u></i> 🔥🔥🔥</center></h2>
-
 <strong>According to <a href="https://en.wikipedia.org/wiki/Software_design_pattern">Wikipedia</a>:
 [A] software design pattern is a general reusable solution to a commonly occurring
 problem within a given context in software design. It is not a finished design that can be
@@ -8,6 +7,5 @@ to solve a problem that can be used in many different situations. Design pattern
 formalized best practices that the programmer can use to solve common problems
 when designing an application or system.</strong>
 <br>
-#https://sourcemaking.com/design_patterns
-
+<a href="https://sourcemaking.com/design_patterns"> Source</a>
 
