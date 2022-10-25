@@ -1,0 +1,2 @@
+#Single_Responsibility_Principle(SRP)
+This single responsibility principle states that every java class must perform a single responsibility functionality.Implementation of multiple functionalities in a single class mashup the code 
