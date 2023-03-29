@@ -11,43 +11,43 @@ when designing an application or system.</strong>
 
 <strong>
 There are many design patterns used in software development, but here are some of the most common ones:
-
-Creational Patterns:
-Singleton Pattern
-Factory Method Pattern
-Abstract Factory Pattern
-Builder Pattern
-Prototype Pattern
-Structural Patterns:
-Adapter Pattern
-Bridge Pattern
-Composite Pattern
-Decorator Pattern
-Facade Pattern
-Flyweight Pattern
-Proxy Pattern
-Behavioral Patterns:
-Chain of Responsibility Pattern
-Command Pattern
-Interpreter Pattern
-Iterator Pattern
-Mediator Pattern
-Memento Pattern
-Observer Pattern
-State Pattern
-Strategy Pattern
-Template Method Pattern
-Visitor Pattern
-Concurrency Patterns:
-Active Object Pattern
-Barrier Pattern
-Double Checked Locking Pattern
-Guarded Suspension Pattern
-Immutable Pattern
-Monitor Object Pattern
-Reactor Pattern
-Readers-Writers Pattern
-Thread Pool Pattern
+<br>
+Creational Patterns:<br>
+Singleton Pattern<br>
+Factory Method Pattern<br>
+Abstract Factory Pattern<br>
+Builder Pattern<br>
+Prototype Pattern<br>
+Structural Patterns:<br>
+Adapter Pattern<br>
+Bridge Pattern<br>
+Composite Pattern<br>
+Decorator Pattern<br>
+Facade Pattern<br>
+Flyweight Pattern<br>
+Proxy Pattern<br>
+Behavioral Patterns:<br>
+Chain of Responsibility Pattern<br>
+Command Pattern<br>
+Interpreter Pattern<br>
+Iterator Pattern<br>
+Mediator Pattern<br>
+Memento Pattern<br>
+Observer Pattern<br>
+State Pattern<br>
+Strategy Pattern<br>
+Template Method Pattern<br>
+Visitor Pattern<br>
+Concurrency Patterns:<br>
+Active Object Pattern<br>
+Barrier Pattern<br>
+Double Checked Locking Pattern<br>
+Guarded Suspension Pattern<br>
+Immutable Pattern<br>
+Monitor Object Pattern<br>
+Reactor Pattern<br>
+Readers-Writers Pattern<br>
+Thread Pool Pattern<br>
 These design patterns provide solutions for common problems that software developers face in the design and implementation of software systems. They provide a way to solve problems in a structured and repeatable manner, which makes software systems more maintainable, extensible, and scalable.
 </strong>
 
